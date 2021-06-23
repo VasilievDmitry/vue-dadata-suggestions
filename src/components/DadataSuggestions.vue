@@ -102,7 +102,7 @@ export default {
         },
       });
 
-      this.currentOptions.partner = 'VUE.76941';
+      this.currentOptions.partner = '';
     },
 
     /**
